@@ -1,0 +1,10 @@
+{
+  "name": "CrimeWatch SA",
+  "short_name": "CrimeWatch SA",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f6f8fa",
+  "theme_color": "#1b3a4b",
+  "status": "draft",
+  "build_id": "B20261120T105200Z"
+}
