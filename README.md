@@ -19,4 +19,4 @@ audits the published site and repo. The audit is advisory and doesn't block publ
 are raised as public issues on this repository, and each one we act on is noted in the commit
 history with the commit that fixed it.
 
-Privacy and corrections: privacy@crimewatch.grokforum.site (role address).
+Privacy and corrections: privacy@grokforum.site (role address).

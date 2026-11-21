@@ -1,10 +1,15 @@
 {
-  "name": "CrimeWatch SA",
-  "short_name": "CrimeWatch SA",
-  "start_url": "/",
-  "display": "browser",
-  "background_color": "#f6f8fa",
-  "theme_color": "#1b3a4b",
-  "status": "draft",
-  "build_id": "B20261120T105200Z"
+  "edition": "20 November 2026",
+  "files": {
+    "404.html": "78b779ca9eefa8b06c9d35e76c650ab46f7b09c1f7c38f6a15df005ae93dfe95",
+    "assets/map-data.js": "ad93b255e6e3857a60bf0bfd5e1035f16e4e3d4ded921e28ced4455702ee6793",
+    "assets/map.js": "e0c5959db30bb1b8036862cfd51da81cfc9f5314895380f26f0813454974fd78",
+    "assets/site.css": "f4b317ab75573e2e00bfd869d827fe8401dff28117918375cc55de54de3ef768",
+    "heat-map/index.html": "aac09b5d66f52624538cf5c4d7ef3367325ee919455ed1c6c7485c904e07be82",
+    "high-profile/index.html": "be4cd63d40d82f410f8cedf920627e3738e24510a9487d782d4e0ac4a8fafe23",
+    "index.html": "0f25c0ce8afa7018a6d6608986b4ada37e01bb59f0b5945145c516d53f38cc9f",
+    "media-gap/index.html": "24e470d5b5ca6eb985d9f1d884e1d03ff2f4b42f7271475322a120c962a31117",
+    "method/index.html": "44d78f12e6fa7b1a2cfe78e9352d26fc79b963a758cd1a0bdb5da8f4d2ec2623",
+    "robots.txt": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+  }
 }
